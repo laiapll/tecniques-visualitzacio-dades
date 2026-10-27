@@ -9,15 +9,15 @@ Aquesta pràctica té com objectiu provar diferents tècniques i eines de visual
 
 | Gràfic | Eina | Descripció | Enllaç |
 |---|---|----------|---|
-| Sankey | R · highcharter | [Repartició d'escons electorals per circumscripció] | [Veure](https://laiapll.github.io/tecniques-visualitzacio-dades/sankey.html) |
-| Rose chart | R · highcharter | [Defuncions per grup d'edat a Barcelona ciutat al 2025] | [Veure](https://laiapll.github.io/tecniques-visualitzacio-dades/rose.html) |
-| Flowmap | Flourish | Desplaçaments entre el municipi de residència i el municipi d'estudi de l'alumnat d'ensenyaments no universitaris | [Veure]([https://public.flourish.studio/visualisation/30627653/]) |
+| Sankey | R · highcharter | Repartició d'escons per circumscripció a les eleccions al Parlament de Catalunya 2024 | [Veure](https://laiapll.github.io/tecniques-visualitzacio-dades/sankey.html) |
+| Rose chart | R · highcharter | Defuncions per grup d'edat a Barcelona ciutat al 2025 | [Veure](https://laiapll.github.io/tecniques-visualitzacio-dades/rose.html) |
+| Flowmap | Flourish | Desplaçaments entre el municipi de residència i el municipi d'estudi de l'alumnat d'ensenyaments no universitaris | [Veure](https://public.flourish.studio/visualisation/30627653/) |
 
 Els gràfics són interactius: tooltips en passar el cursor i, al mapa, zoom i desplaçament.
 
 ## Dades
 
-Totes les dades provenen del portal de dades obertes de la Generalitat de Catalunya ([analisi.transparenciacatalunya.cat](https://analisi.transparenciacatalunya.cat/)). S'han obtingut cridant directament l'**API del portal** amb una funció pròpia (`R/api.R`) i s'han **transformat segons les necessitats de cada gràfic** a `scripts/01_dades.R`. Només es conserven les dades ja transformades, a la carpeta `dades/`. [COMPLETA: breu descripció de les transformacions, p. ex. filtres, agregacions, unions de taules.]
+Totes les dades provenen del portal de dades obertes de la Generalitat de Catalunya ([analisi.transparenciacatalunya.cat](https://analisi.transparenciacatalunya.cat/)). S'han obtingut cridant directament l'**API del portal** amb una funció pròpia (`R/api.R`) i s'han **transformat segons les necessitats de cada gràfic** a `scripts/01_dades.R`. Només es conserven les dades ja transformades, a la carpeta `dades/`.
 
 **Data de descàrrega:** 27/10/2026. Les dades obertes s'actualitzen, així que tornar a executar la descàrrega més endavant pot donar resultats diferents. Les dades de `dades/` són les que s'han fet servir per als gràfics publicats.
 
