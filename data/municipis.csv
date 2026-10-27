@@ -1,0 +1,312 @@
+codi,latitud,longitud,nom,nom_comarca
+08282,41.48172848,2.269019357,Tiana,Maresme
+08252,41.51579636,2.124669407,Barberà del Vallès,Vallès Occidental
+08013,41.36097714,1.779376543,Avinyonet del Penedès,Alt Penedès
+08019,41.38240539,2.177241106,Barcelona,Barcelonès
+08015,41.45002603,2.247791638,Badalona,Barcelonès
+08247,41.91088985,2.188605638,Santa Eulàlia de Riuprimer,Osona
+08136,41.54526095,2.267313544,Montornès del Vallès,Vallès Oriental
+08070,41.82579764,2.175314238,Collsuspina,Moianès
+08169,41.33073627,2.093044846,"Prat de Llobregat, el",Baix Llobregat
+08008,41.59753198,1.444155159,Argençola,Anoia
+08239,41.72730742,2.153080364,Sant Quirze Safaja,Moianès
+08168,41.41573587,1.516619317,Pontons,Alt Penedès
+08197,41.57445867,2.483347205,Sant Andreu de Llavaneres,Maresme
+08048,41.53089786,1.62304521,Carme,Anoia
+08171,42.00864672,2.028590923,Prats de Lluçanès,Lluçanès
+08064,41.75156183,2.12050299,Castellterçol,Moianès
+08113,41.72305529,1.826928753,Manresa,Bages
+08141,41.89984083,1.879336762,Navàs,Bages
+08161,41.5181362,1.743364446,Piera,Anoia
+08259,41.69298714,2.44609648,Santa Maria de Palautordera,Vallès Oriental
+08085,41.41394001,1.651028415,Font-rubí,Alt Penedès
+08300,41.55533046,1.954375361,Viladecavalls,Vallès Occidental
+08184,41.49348467,2.031335058,Rubí,Vallès Occidental
+08151,41.93236576,2.060357752,Oristà,Lluçanès
+08080,42.18100615,1.836761574,Fígols,Berguedà
+08275,41.9521483,2.326511576,Tavèrnoles,Osona
+08108,41.58630762,2.239084658,Lliçà de Vall,Vallès Oriental
+08118,41.47916172,2.319018119,"Masnou, el",Maresme
+08253,42.12772104,2.257677408,Santa Maria de Besora,Osona
+08146,41.35170451,1.850758765,Olesa de Bonesvalls,Alt Penedès
+08208,41.49324532,1.874365808,Sant Esteve Sesrovires,Baix Llobregat
+08134,41.72169934,2.273365617,Figaró-Montmany,Vallès Oriental
+08232,41.45319447,1.701326925,Sant Pere de Riudebitlles,Alt Penedès
+08290,41.52690369,1.956888262,Ullastrell,Vallès Occidental
+08266,41.49102342,2.140715332,Cerdanyola del Vallès,Vallès Occidental
+08126,41.4669452,2.278681615,Montgat,Maresme
+08083,41.93862682,2.318462912,Folgueroles,Osona
+08187,41.54637803,2.108551925,Sabadell,Vallès Occidental
+08199,41.98028526,2.177151812,Sant Bartomeu del Grau,Osona
+08243,41.99282173,2.222301046,Santa Cecília de Voltregà,Osona
+08905,41.41120333,1.971237761,"Palma de Cervelló, la",Baix Llobregat
+08027,41.37173606,1.689614095,"Cabanyes, les",Alt Penedès
+08224,41.76389065,2.250971253,Sant Martí de Centelles,Osona
+08294,41.64725988,2.511522938,Vallgorguina,Vallès Oriental
+08164,41.41836621,1.710276206,"Pla del Penedès, el",Alt Penedès
+08033,41.63459072,2.162240112,Caldes de Montbui,Vallès Oriental
+08042,41.69391937,2.352943715,Cànoves i Samalús,Vallès Oriental
+08076,41.53896619,1.870708537,Esparreguera,Baix Llobregat
+08189,41.73652419,1.572465286,Sant Pere Sallavinera,Anoia
+08248,41.65234558,2.229205451,Santa Eulàlia de Ronçana,Vallès Oriental
+08100,41.94048906,2.243276016,Gurb,Osona
+08059,41.66718916,1.683366337,Castellfollit del Boix,Bages
+08211,41.38195325,2.046230144,Sant Feliu de Llobregat,Baix Llobregat
+08131,42.10989357,2.209866277,Montesquiu,Osona
+08302,41.57225855,1.634199238,Vilanova del Camí,Anoia
+08038,41.78124073,1.783871713,Callús,Bages
+08264,41.57901954,2.508766296,Sant Vicenç de Montalt,Maresme
+08296,41.53184295,2.298353915,Vallromanes,Vallès Oriental
+08261,41.63550377,2.707068724,Santa Susanna,Maresme
+08155,41.667246,2.749412882,Palafolls,Maresme
+08001,41.5162579,1.902237925,Abrera,Baix Llobregat
+08179,41.63743115,1.910774943,Rellinars,Vallès Occidental
+08114,41.4743361,1.930730461,Martorell,Baix Llobregat
+08112,41.9999391,2.283578064,Manlleu,Osona
+08037,41.92412424,2.284270015,Calldetenes,Osona
+08065,41.32643174,1.61821029,Castellví de la Marca,Alt Penedès
+08181,41.58756871,2.325763581,"Roca del Vallès, la",Vallès Oriental
+08192,41.78327337,1.839177662,Santpedor,Bages
+08299,42.13686727,1.931742789,Vilada,Berguedà
+08045,42.07723654,1.753178363,Capolat,Berguedà
+08056,41.28026946,1.976232924,Castelldefels,Baix Llobregat
+08279,41.56295878,2.010294804,Terrassa,Vallès Occidental
+08220,41.92229554,2.324497728,Sant Julià de Vilatorta,Osona
+08201,42.05877073,2.15178496,Sant Boi de Lluçanès,Osona
+08039,41.72452859,2.463909429,Campins,Vallès Oriental
+08240,41.42421161,1.787300544,Sant Sadurní d'Anoia,Alt Penedès
+08057,42.17321606,1.945196781,Castell de l'Areny,Berguedà
+08010,41.79813699,1.95486944,Artés,Bages
+08092,42.03383842,1.882846227,Gironella,Berguedà
+08205,41.46985344,2.082391608,Sant Cugat del Vallès,Vallès Occidental
+08135,41.55151721,2.247898536,Montmeló,Vallès Oriental
+08236,41.46234959,1.663146513,Sant Quintí de Mediona,Alt Penedès
+08002,41.73892913,1.630963223,Aguilar de Segarra,Bages
+08160,42.04226681,2.106999046,Perafita,Lluçanès
+08051,41.61855701,2.087635113,Castellar del Vallès,Vallès Occidental
+08121,41.5398099,2.444896864,Mataró,Maresme
+08214,41.51699079,2.359477069,Vilassar de Dalt,Maresme
+08167,41.55760939,2.156245284,Polinyà,Vallès Occidental
+08291,41.60593686,1.918781001,Vacarisses,Vallès Occidental
+08280,41.99679492,2.418462997,Tavertet,Osona
+08091,41.44092894,1.863167973,Gelida,Alt Penedès
+08209,41.51875719,2.232936617,Sant Fost de Campsentelles,Vallès Oriental
+08274,41.83146668,1.753565253,Súria,Bages
+08116,41.98956736,2.30771889,"Masies de Roda, les",Osona
+08251,41.32137517,1.663058723,Santa Margarida i els Monjos,Alt Penedès
+08150,42.05822395,2.239282559,Orís,Osona
+08145,41.32101847,1.721133883,Olèrdola,Alt Penedès
+08031,41.73406648,1.511278933,Calaf,Anoia
+08217,41.36782167,2.054954782,Sant Joan Despí,Baix Llobregat
+08227,41.38531544,1.610944411,Sant Martí Sarroca,Alt Penedès
+08157,41.4225799,1.996775252,Pallejà,Baix Llobregat
+08120,41.59664189,2.026747357,Matadepera,Vallès Occidental
+08162,41.53379831,1.770752125,"Hostalets de Pierola, els",Anoia
+08268,42.14605031,1.861924391,Cercs,Berguedà
+08123,41.41359396,2.015962183,Molins de Rei,Baix Llobregat
+08041,41.62175675,2.276970352,Canovelles,Vallès Oriental
+08196,41.44999966,1.971403604,Sant Andreu de la Barca,Baix Llobregat
+08082,41.73509888,2.671432557,Fogars de la Selva,Selva
+08271,42.03613271,2.166839648,Sobremunt,Lluçanès
+08191,41.82406284,1.894674687,Sallent,Bages
+08090,41.91652923,1.925435009,Gaià,Bages
+08050,42.13104932,1.708727309,Castellar del Riu,Berguedà
+08249,41.38445001,1.721265848,Santa Fe del Penedès,Alt Penedès
+08289,41.35904782,1.981109195,Torrelles de Llobregat,Baix Llobregat
+08257,41.51803535,1.525443659,Santa Maria de Miralles,Anoia
+08254,42.03550806,2.368244029,"Esquirol, l'",Osona
+08009,41.55564404,2.400515899,Argentona,Maresme
+08207,41.70353973,2.435177772,Sant Esteve de Palautordera,Vallès Oriental
+08178,41.7276963,1.70622668,Rajadell,Bages
+08225,42.02796555,2.074148562,Sant Martí d'Albars,Lluçanès
+08095,41.72541716,2.057173474,Granera,Moianès
+08060,41.77607379,1.437574989,Castellfollit de Riubregós,Anoia
+08097,41.7320464,2.501920371,Gualba,Vallès Oriental
+08103,41.6018025,1.548645289,Jorba,Anoia
+08262,41.6655524,1.863615971,Sant Vicenç de Castellet,Bages
+08306,41.65285857,2.44112064,Vilalba Sasserra,Vallès Oriental
+08242,41.64029098,1.793045527,Marganell,Bages
+08901,42.02330972,2.464658159,Rupit i Pruit,Osona
+08293,42.20333326,1.818586195,Vallcebre,Berguedà
+08144,42.05699767,1.906973539,Olvan,Berguedà
+08198,41.67356956,2.400660571,Sant Antoni de Vilamajor,Vallès Oriental
+08216,42.18641639,2.025486574,Sant Jaume de Frontanyà,Berguedà
+08006,41.57953396,2.551624094,Arenys de Mar,Maresme
+08109,42.06808229,2.073264042,Lluçà,Lluçanès
+08231,41.26230332,1.772114573,Sant Pere de Ribes,Garraf
+08158,41.43802425,2.010961168,"Papiol, el",Baix Llobregat
+08307,41.22411114,1.726180234,Vilanova i la Geltrú,Garraf
+08024,42.13563637,1.993986452,Borredà,Berguedà
+08075,41.59467541,2.405853754,Dosrius,Maresme
+08073,41.35517145,2.070159567,Cornellà de Llobregat,Baix Llobregat
+08139,41.69954107,1.976188317,Mura,Bages
+08215,42.01554645,2.236199081,Sant Hipòlit de Voltregà,Osona
+08303,41.94711624,2.384824808,Vilanova de Sau,Osona
+08203,41.619471,2.599410003,Sant Cebrià de Vallalta,Maresme
+08273,41.38241395,1.794652615,Subirats,Alt Penedès
+08281,41.49967413,2.319824033,Teià,Maresme
+08213,41.75067462,1.87327387,Sant Fruitós de Bages,Bages
+08035,41.61327142,2.65721784,Calella,Maresme
+08066,41.45005532,1.89951114,Castellví de Rosanes,Baix Llobregat
+08190,42.22932023,1.736147373,Saldes,Berguedà
+08245,41.45214935,2.207934468,Santa Coloma de Gramenet,Barcelonès
+08022,42.1037619,1.845845087,Berga,Berguedà
+08142,42.16588441,1.885103187,"Nou de Berguedà, la",Berguedà
+08210,41.68891823,2.164546597,Sant Feliu de Codines,Vallès Oriental
+08115,41.52570389,2.242767079,Martorelles,Vallès Oriental
+08228,41.7020122,1.488163253,Sant Martí Sesgueioles,Anoia
+08071,41.63639337,1.518223006,Copons,Anoia
+08177,42.08088762,1.96148824,"Quar, la",Berguedà
+08028,41.47766643,1.703544417,Cabrera d'Anoia,Anoia
+08182,41.70006581,1.87062396,"Pont de Vilomara i Rocafort, el",Bages
+08278,41.87381066,2.286813911,Taradell,Osona
+08125,41.48579566,2.187770377,Montcada i Reixac,Vallès Occidental
+08046,41.63829179,2.355346668,Cardedeu,Vallès Oriental
+08223,41.67938291,2.059726584,Sant Llorenç Savall,Vallès Occidental
+08153,41.55508453,2.35494046,Òrrius,Maresme
+08078,42.05355577,1.767745419,"Espunyola, l'",Berguedà
+08219,41.50238859,2.392486809,Vilassar de Mar,Maresme
+08269,41.83863507,2.280295766,Seva,Osona
+08287,41.44634498,1.729905868,Torrelavit,Alt Penedès
+08093,42.25003708,1.786464763,Gisclareny,Berguedà
+08206,41.36261514,1.75236167,Sant Cugat Sesgarrigues,Alt Penedès
+08288,41.38847247,1.568940183,Torrelles de Foix,Alt Penedès
+08117,42.02239373,2.23487791,"Masies de Voltregà, les",Osona
+08025,41.58073445,1.780059385,"Bruc, el",Anoia
+08250,41.57382772,1.608065901,Santa Margarida de Montbui,Anoia
+08053,41.62939237,1.860478136,Castellbell i el Vilar,Bages
+08086,41.63630673,2.297161105,"Franqueses del Vallès, les",Vallès Oriental
+08175,41.97413283,1.87898946,Puig-reig,Berguedà
+08241,41.90185693,2.381388572,Sant Sadurní d'Osormort,Osona
+08128,41.76032259,2.014631919,Monistrol de Calders,Moianès
+08194,41.43006742,2.217787409,Sant Adrià de Besòs,Barcelonès
+08058,41.25340002,1.590703884,Castellet i la Gornal,Alt Penedès
+08226,41.5606001,1.523004887,Sant Martí de Tous,Anoia
+08119,41.50189427,1.81185265,Masquefa,Anoia
+08234,41.68501897,2.390629567,Sant Pere de Vilamajor,Vallès Oriental
+08049,42.0143601,1.841287149,Casserres,Berguedà
+08277,41.73809931,1.977139773,Talamanca,Bages
+08180,41.49650163,2.15349201,Ripollet,Vallès Occidental
+08237,42.10028539,2.22222543,Sant Quirze de Besora,Osona
+08074,41.20825098,1.672526156,Cubelles,Garraf
+08084,41.76293413,1.668695995,Fonollosa,Bages
+08062,41.8341297,1.836910755,Castellnou de Bages,Bages
+08122,41.47678877,1.611341144,Mediona,Alt Penedès
+08018,41.86321312,1.876819518,Balsareny,Bages
+08263,41.39333667,2.009712625,Sant Vicenç dels Horts,Baix Llobregat
+08297,41.65597683,1.488662991,Veciana,Anoia
+08166,42.24338043,1.974683055,"Pobla de Lillet, la",Berguedà
+08148,41.31031156,1.812242091,Olivella,Garraf
+08111,41.88658813,2.234413951,Malla,Osona
+08202,41.68996299,2.49251912,Sant Celoni,Vallès Oriental
+08043,41.28575598,1.722358067,Canyelles,Garraf
+08255,42.00096264,1.978376645,Santa Maria de Merlès,Berguedà
+08011,42.07728596,1.82515717,Avià,Berguedà
+08284,41.69902461,2.718763122,Tordera,Maresme
+08267,41.60925884,2.136193226,Sentmenat,Vallès Occidental
+08020,41.33017397,1.924677961,Begues,Baix Llobregat
+08904,41.50903011,2.113905197,Badia del Vallès,Vallès Occidental
+08129,41.87840992,2.177584873,Muntanyola,Osona
+08101,41.35945967,2.099712098,"Hospitalet de Llobregat, l'",Barcelonès
+08172,41.4898095,2.35678569,Premià de Mar,Maresme
+08063,41.59831648,1.700317601,Castellolí,Anoia
+08124,41.53541184,2.210310853,Mollet del Vallès,Vallès Oriental
+08067,41.79769849,2.219100119,Centelles,Osona
+08195,42.085605,2.126789136,Sant Agustí de Lluçanès,Osona
+08304,41.39024459,1.663622541,Vilobí del Penedès,Alt Penedès
+08081,41.72763658,2.443167054,Fogars de Montclús,Vallès Oriental
+08072,41.41610239,1.927701004,Corbera de Llobregat,Baix Llobregat
+08272,42.11049281,2.159795294,Sora,Osona
+08052,42.28287514,2.017208352,Castellar de n'Hug,Berguedà
+08029,41.52601029,2.393308926,Cabrera de Mar,Maresme
+08023,41.67932227,2.208271917,Bigues i Riells del Fai,Vallès Oriental
+08193,41.62386593,2.569300136,Sant Iscle de Vallalta,Maresme
+08212,41.94481219,2.022486759,Sant Feliu Sasserra,Bages
+08133,41.62613551,1.414420497,Montmaneu,Anoia
+08007,41.61094994,2.53916522,Arenys de Munt,Maresme
+08258,41.87217579,2.035571761,Santa Maria d'Oló,Moianès
+08229,41.79675681,1.732630684,Sant Mateu de Bages,Bages
+08221,41.38572828,2.075560984,Sant Just Desvern,Baix Llobregat
+08286,41.5335756,1.658209642,"Torre de Claramunt, la",Anoia
+08079,41.86860715,2.112454961,"Estany, l'",Moianès
+08143,41.60674209,1.641588518,Òdena,Anoia
+08176,41.71733521,1.422600785,Pujalt,Anoia
+08003,41.49384008,2.295144857,Alella,Maresme
+08238,41.53283954,2.080999131,Sant Quirze del Vallès,Vallès Occidental
+08054,41.47487524,1.981226635,Castellbisbal,Vallès Occidental
+08017,41.81537217,2.235188771,Balenyà,Osona
+08185,41.64464409,1.570183864,Rubió,Anoia
+08047,41.91311035,1.680327797,Cardona,Bages
+08170,41.70553776,1.542081512,"Prats de Rei, els",Anoia
+08004,42.11926142,2.101142098,Alpens,Lluçanès
+08088,41.68530786,2.285838545,"Garriga, la",Vallès Oriental
+08308,41.94672926,1.778623024,Viver i Serrateix,Berguedà
+08295,41.38805611,1.931881445,Vallirana,Baix Llobregat
+08276,41.7384436,2.267717476,Tagamanent,Vallès Oriental
+08026,41.81674111,2.305489017,"Brull, el",Osona
+08102,41.57871621,1.617581375,Igualada,Anoia
+08256,41.51957597,2.253349207,Santa Maria de Martorelles,Vallès Oriental
+08130,42.01820919,1.765071661,Montclar,Berguedà
+08147,41.54350594,1.893900541,Olesa de Montserrat,Baix Llobregat
+08034,41.78927569,1.991322594,Calders,Moianès
+08098,41.67923246,1.766295575,Sant Salvador de Guardiola,Bages
+08156,41.58754343,2.178421008,Palau-solità i Plegamans,Vallès Occidental
+08298,41.92996761,2.254264193,Vic,Osona
+08040,41.58848471,2.582425003,Canet de Mar,Maresme
+08106,41.63915185,2.404620012,Llinars del Vallès,Vallès Oriental
+08032,41.57254213,2.527515728,Caldes d'Estrac,Maresme
+08140,41.75162689,1.903759781,Navarcles,Bages
+08094,41.37688207,1.719478586,"Granada, la",Alt Penedès
+08099,42.23322071,1.878810946,Guardiola de Berguedà,Berguedà
+08292,41.51998537,1.709448701,Vallbona d'Anoia,Anoia
+08270,41.23508519,1.811838248,Sitges,Garraf
+08127,41.60979073,1.842759667,Monistrol de Montserrat,Bages
+08087,41.69311463,2.115699161,Gallifa,Vallès Occidental
+08107,41.60846679,2.239433257,Lliçà d'Amunt,Vallès Oriental
+08233,42.07549518,2.29610097,Sant Pere de Torelló,Osona
+08154,41.36151537,1.669009697,Pacs del Penedès,Alt Penedès
+08077,41.37769777,2.087992375,Esplugues de Llobregat,Baix Llobregat
+08030,41.52622386,2.367716483,Cabrils,Maresme
+08152,41.52900383,1.60692923,Orpí,Anoia
+08014,41.76888504,2.249396729,Aiguafreda,Osona
+08104,41.47248046,1.532021048,"Llacuna, la",Anoia
+08222,41.46785877,1.824413228,Sant Llorenç d'Hortons,Alt Penedès
+08204,41.3370707,1.996420408,Sant Climent de Llobregat,Baix Llobregat
+08110,41.64550143,2.740742879,Malgrat de Mar,Maresme
+08061,41.67520948,1.838589454,Castellgalí,Bages
+08096,41.60808662,2.286822072,Granollers,Vallès Oriental
+08021,41.51724732,1.434454531,Bellprat,Anoia
+08068,41.39611352,1.958951323,Cervelló,Baix Llobregat
+08305,41.34649761,1.697222865,Vilafranca del Penedès,Alt Penedès
+08069,41.56729637,1.829521495,Collbató,Baix Llobregat
+08132,42.01741553,1.734842842,Montmajor,Berguedà
+08005,41.66939188,2.261520529,"Ametlla del Vallès, l'",Vallès Oriental
+08265,42.06260072,2.274015277,Sant Vicenç de Torelló,Osona
+08183,41.98080557,2.309491592,Roda de Ter,Osona
+08283,41.85002154,2.229175918,Tona,Osona
+08301,41.31589677,2.019652409,Viladecans,Baix Llobregat
+08016,42.25285297,1.86260099,Bagà,Berguedà
+08149,41.98580669,2.095728143,Olost,Lluçanès
+08235,41.60022259,2.621160222,Sant Pol de Mar,Maresme
+08159,41.57316553,2.233577244,Parets del Vallès,Vallès Oriental
+08903,42.223842930000004,1.892917871,Sant Julià de Cerdanyola,Berguedà
+08246,41.90035853,2.283148117,Santa Eugènia de Berga,Osona
+08285,42.04713193,2.260585184,Torelló,Osona
+08902,41.55405656,2.288998615,Vilanova del Vallès,Vallès Oriental
+08036,41.74049243,1.493838563,Calonge de Segarra,Anoia
+08105,41.51312003,2.193612736,"Llagosta, la",Vallès Oriental
+08163,41.62752246,2.689529503,Pineda de Mar,Maresme
+08137,41.75915399,2.395354738,Montseny,Vallès Oriental
+08230,41.50731101,2.34246115,Premià de Dalt,Maresme
+08138,41.81286912,2.096923027,Moià,Moianès
+08044,41.530912120000004,1.685814119,Capellades,Anoia
+08012,41.86338143,1.970760811,Avinyó,Bages
+08260,41.53457583,2.183444726,Santa Perpètua de Mogoda,Vallès Occidental
+08188,42.05083423,1.961603058,Sagàs,Berguedà
+08200,41.34752428,2.042704219,Sant Boi de Llobregat,Baix Llobregat
+08244,41.36897282,2.016180072,Santa Coloma de Cervelló,Baix Llobregat
+08174,41.40427965,1.701100137,Puigdàlber,Alt Penedès
+08089,41.30611887,2.004774201,Gavà,Baix Llobregat
+08218,41.74550716,1.804848323,Sant Joan de Vilatorrada,Bages
+08165,41.55502231,1.675296009,"Pobla de Claramunt, la",Anoia
+08055,41.76073745,2.148900039,Castellcir,Moianès
